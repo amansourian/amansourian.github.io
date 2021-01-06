@@ -19,5 +19,5 @@ And obviously,
 > [GitHub Profile](https://github.com/amansourian)
 
 
-### Contact
+### Contact:
 `mansourianarman@gmail.com` or `armansou@ucsd.edu`
