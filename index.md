@@ -1,4 +1,5 @@
-## Welcome to my page! :robot:
+## Welcome to my page!
+:robot:
 
 ![cute selfie](https://avatars2.githubusercontent.com/u/29320675?s=400&u=b2c3ff7c8be281a218e0d42870cf62e36fe604c8&v=4)
 
