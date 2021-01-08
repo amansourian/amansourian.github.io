@@ -23,6 +23,6 @@ I love to code :)
 - [GitHub Profile](https://github.com/amansourian)
 
 ## Goals for 2021:
-- [ ] Contribute more to open-source projects :technologist:
-- [ ] Get the fancy undergraduate degree :student:
-- [ ] Run 365 miles :grimacing:
+- [ ] Contribute more to open-source projects
+- [ ] Get the fancy undergraduate degree
+- [ ] Run 365 miles
